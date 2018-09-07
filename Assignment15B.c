@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main(int argc, char **argv){
-  printf ("Daryn Capps");
+  printf ("Daryn Capps and Thi Nguyen");
 
   return 0;
   }
